@@ -1,7 +1,5 @@
 # FastAPI kurs
 
-Materijali sa časova FastAPI-ja.
-
 ## Pokretanje
 
 ```bash
