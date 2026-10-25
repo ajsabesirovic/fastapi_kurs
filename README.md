@@ -17,3 +17,4 @@ Dokumentacija: http://127.0.0.1:8000/docs
 - [Čas 1](cas-01/) – uvod, prvi endpoint, path i query parametri
 - [Čas 2](cas-02/) – API za studente, 404, POST i Pydantic
 - [Čas 3](cas-03/) – PUT, DELETE, validacija sa Field
+- [Čas 4](cas-04/) – validacija parametara, paginacija i pretraga
